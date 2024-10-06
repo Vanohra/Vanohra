@@ -5,7 +5,6 @@
 </h1>
 
 <h3 align="center">An Aspriting Software Developper & Analyst</h3>
-
 <br/>
 
 <div align="center">
