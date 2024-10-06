@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vanohra.Vanohra" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vanohra+Gaspard!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=#DF80D1&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vanohra+Gaspard!;" />
 </h1>
 
 <h3 align="center">An Aspriting Software Developper & Analyst</h3>
