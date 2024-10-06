@@ -71,7 +71,7 @@
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F3A0E6&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Stay+in+touch+for+more+updates!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F3A0E6&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Stay+in+touch+for+more+updates!;" />
 </div>
 
 <br/>
